@@ -8,6 +8,11 @@ public class p123
 		System.out.println("hi...!!!");
 		System.out.println("hi...!!!");
 		
+		
+		System.out.println("123");
+		System.out.println("123");
+		System.out.println("123");
+		
 	}
 
 }
